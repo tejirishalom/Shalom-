@@ -157,7 +157,7 @@ body{
 }
 
 .skill{
-    height: 140vh;
+    height: 160vh;
     align-items: center;
     padding: 5rem 5%;
     margin: 5%;
@@ -218,11 +218,11 @@ body{
 
 .work img{
     width: 20%;
-    
+    position: absolute;
     border-radius: 10px;
     height: 50%;
     transition: transform 0.5s;
-    position: relative;
+    
 }
 
 .layer{
@@ -230,7 +230,7 @@ body{
     height:0%;
     background: linear-gradient(#ccdee0, rgba(185, 200, 218, 0.4));
     border-radius: 10px;
-    position: absolute;
+    position: relative;
     cursor: alias;
     left: 0;
     bottom: 0;
