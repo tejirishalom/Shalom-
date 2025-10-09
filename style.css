@@ -93,8 +93,7 @@ body{
     ( --accent-glow ) 0%, transparent 30%);
     margin: 5%;
     background: var(--dark-bg);
-    box-shadow: 1px 1px 2px 3px var(--accent-glow);
-} 
+    } 
 
 .hero-content {
     flex: 1;
@@ -163,7 +162,7 @@ body{
     padding: 5rem 5%;
     margin: 5%;
     background: var(--dark-bg);
-    box-shadow: 1px 1px 2px 3px var(--accent-glow);
+    box-shadow: 0px 0px 0px 3px var(--accent-glow);
 }
 
 .skill h2{
@@ -192,7 +191,7 @@ body{
 .skills-card:hover{
     transform: translateY(-10px);
     border-color: var(--accent-glow);
-    box-shadow: 1px 2px 2px 3px var(--accent)
+    box-shadow: 0px 0px 0px 3px var(--accent)
 }
 
 .works{
@@ -203,7 +202,7 @@ body{
     ( --accent-glow ) 0%, transparent 30%);
     margin: 5%;
     background: var(--dark-bg);
-    box-shadow: 1px 1px 2px 3px var(--accent-glow);
+    box-shadow: 0px 0px 0px 3px var(--accent-glow);
 }
 
 .work-list{
