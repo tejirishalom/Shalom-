@@ -625,10 +625,9 @@ footer{
     }
 
     .work img{
-        height: 100%;
-        width: 100%;
-        row-gap: 4rem;
-        margin-top: 1rem;
+        padding: 20px;
+        height: 70%;
+        width: 70%;
         align-items: center;
 
     }
@@ -728,8 +727,9 @@ footer{
     }
 
     .work img{
-        height: 10rem;
-        width: 10rem;
+        padding: 20px;
+        height: 50%;
+        width: 50%;
     }
 
 }
